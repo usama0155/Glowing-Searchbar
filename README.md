@@ -26,8 +26,8 @@ A simple yet elegant glowing search bar created using HTML and CSS only. This pr
 ## Customization
 You can customize the glowing effect by modifying the CSS properties in `style.css`. Adjust the `box-shadow` values to change the glow intensity and color.
 
-## Screenshots
-![Glowing Search Bar](screenshot.png)
+## Demo
+![Glowing Search Bar](demo.mp4)
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
