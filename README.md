@@ -33,4 +33,4 @@ You can customize the glowing effect by modifying the CSS properties in `style.c
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## Author
-Developed by **Usama Khalid**
+Developed by **Usama Khalid**(https://github.com/usama0155)
