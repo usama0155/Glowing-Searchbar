@@ -52,7 +52,7 @@ button {
     border-color: rgb(255, 0, 0);
     border: solid 3px#ff0000;
     box-shadow: 0 0 20px #ff0000;
-    animation: glow 800ms ease-in infinite alternate;
+    animation: glow 800ms ease-in-out infinite alternate;
 }
 
 @keyframes glow {
@@ -72,7 +72,6 @@ button {
 button:hover {
     color: #ff0000;
     }
-}
 section {
     text-align: center;
 }
