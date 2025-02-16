@@ -71,22 +71,6 @@ button {
 
 button:hover {
     color: #ff0000;
-    animation: glow-button 800ms ease-in infinite alternate;
-}
-
-@keyframes glow-button {
-    0% {
-        box-shadow: 0 0 2px #ffffff;
-        background: #ff0000;
-    }
-
-    50% {
-        box-shadow: 0 0 15px#f95151;
-    }
-
-    100% {
-        box-shadow: 0 0 20px #ff0000;
-        background: #151515;
     }
 }
 section {
